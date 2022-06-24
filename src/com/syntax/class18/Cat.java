@@ -14,7 +14,7 @@ public class Cat {
     String breed;
     int age;
     double weight;
-    sout
+
     public static void main(String[] args) {
 
     }
